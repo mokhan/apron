@@ -1,5 +1,5 @@
 require "apron/version"
+require "apron/feature"
 
 module Apron
-  # Your code goes here...
 end
